@@ -1,0 +1,3 @@
+rootProject.name = 'price_estimator_react_native'
+
+include ':app'
